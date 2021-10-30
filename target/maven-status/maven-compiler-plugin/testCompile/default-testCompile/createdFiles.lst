@@ -1,0 +1,7 @@
+pajeObjects\HomePage.class
+testCases\VerifyHomePageTest.class
+testCases\SimpleTest.class
+Reusable\ReusableMethods.class
+utilities\Reporting.class
+testCases\Base.class
+utilities\ReadConfig.class
